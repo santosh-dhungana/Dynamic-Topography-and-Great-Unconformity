@@ -1,0 +1,116 @@
+# ====================================================
+# 🧠 JupyterLab / Jupyter Notebook
+# ====================================================
+
+.ipynb_checkpoints/
+.jupyter/
+.jupyter/lab/workspaces/
+.jupyter/lab/staging/
+.labconfig/
+**/.ipynb_checkpoints/
+
+# ====================================================
+# 🐍 Python / Environment Files
+# ====================================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ====================================================
+# 📊 Data, Models, and Outputs
+# ====================================================
+
+*.csv
+*.tsv
+*.json
+*.dat
+*.npz
+*.npy
+*.h5
+*.hdf5
+*.parquet
+*.pkl
+*.joblib
+*.model
+*.weights
+*.ckpt
+*.log
+*.out
+
+# ====================================================
+# 🧩 IDEs and Editors
+# ====================================================
+
+.vscode/
+.idea/
+.history/
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ====================================================
+# 🚀 JupyterLab Extensions / Node Modules
+# ====================================================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ====================================================
+# 🔒 Secrets
+# ====================================================
+
+*.env
+*.key
+*.pem
+*.crt
+*.csr
+*.json
+
+# ====================================================
+# ✅ End of File
+# ====================================================

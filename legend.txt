@@ -1,1 +1,3 @@
-S 0.2c v 0.50c black 0.05p 0.6c 5 cm/year
+version https://git-lfs.github.com/spec/v1
+oid sha256:833b3d6ed83a79482cc76c4f66295a425073493777b9de93484ff33c153d1dcd
+size 41

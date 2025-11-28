@@ -1,13 +1,3 @@
-#
-#
-1 #FCC6FB
-3 #0001FF
-4 #FFFFFF
-5 #00FF01
-6 #FFFFFF
-9 #FFAD00
-11 #00FF01
-13 #00FFFF
-15 #00FFFF
-
-N 128 128 128
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e7feceb2b1b35d9b279882cc8586640e9737786ee3abcc6310227ddcadbd9fe
+size 123

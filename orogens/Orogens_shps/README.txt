@@ -1,5 +1,3 @@
-25/01/2023
-
-This directory contains a shapefile created based on the compilation of Condie et al. (2021).
-
-REFERNCE: Condie, K.C., Pisarevsky, S.A., Puetz, S.J., 2021. LIPs, orogens and supercontinents: The ongoing saga. Gondwana Research 96, 105–121. https://doi.org/10.1016/j.gr.2021.05.002
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f96fd3b1fd470f3d675db9df78f7eb6d98a2b99a81207dc9a6ab90d03749db8
+size 300

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4239c5d08d7c0d2147ee6c2fdd32e3d0fe7b320dfa5c22d7dd3bee660850b746
-size 969408
+Fit_to_deep_Earth/eruptions_to_BLOBS/T18-J18-combined_over_320Myr_Dhungana_Flament_2025_KS_AD_mean_solid_only.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_LLSVPs/T18-J18-combined_over_320Myr_tomo_PMAG_Dhungana_Flament_2025_KS_mean.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_BLOBS/T18-J18-combined_over_640Myr_Dhungana_Flament_2025_KS_AD_mean.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_LLSVPs/T18-J18-combined_over_320Myr_tomo_NNR_Dhungana_Flament_2025_KS_mean_solid_only.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_LLSVPs/T18-J18-combined_over_640Myr_tomo_PMAG_Dhungana_Flament_2025_KS_mean_new.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_LLSVPs/T18-J18-combined_over_640Myr_tomo_PMAG_Dhungana_Flament_2025_KS_mean_solid_only.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_BLOBS/T18-J18-combined_over_640Myr_Dhungana_Flament_2025_KS_AD_mean_solid_only.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_LLSVPs/T18-J18-combined_over_320Myr_tomo_NNR_Dhungana_Flament_2025_KS_mean.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_LLSVPs/T18-J18-combined_over_640Myr_tomo_NNR_Dhungana_Flament_2025_KS_mean_solid_only.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/area filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_BLOBS filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_BLOBS/T18-J18-combined_over_320Myr_Dhungana_Flament_2025_KS_AD_mean.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_LLSVPs filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_LLSVPs/T18-J18-combined_over_320Myr_tomo_PMAG_Dhungana_Flament_2025_KS_mean_solid_only.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/eruptions_to_LLSVPs/T18-J18-combined_over_640Myr_tomo_NNR_Dhungana_Flament_2025_KS_mean_new.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/accuracy_and_sensitivity filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/accuracy_and_sensitivity/Accuracy_Sensitivity_EDF_models_tomos_Dhungana_Flament_2025_new.csv filter=lfs diff=lfs merge=lfs -text
+Fit_to_deep_Earth/area/mean_cluster_fractional_areas_over_320Myr_Dhungana_Flament_2025.csv filter=lfs diff=lfs merge=lfs -text
